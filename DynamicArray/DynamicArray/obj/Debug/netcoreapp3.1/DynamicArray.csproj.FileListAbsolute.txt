@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\DynamicArray\DynamicArray\bin\Debug\netcoreapp3.1\DynamicArray.exe
+C:\Users\User\source\repos\DynamicArray\DynamicArray\bin\Debug\netcoreapp3.1\DynamicArray.deps.json
+C:\Users\User\source\repos\DynamicArray\DynamicArray\bin\Debug\netcoreapp3.1\DynamicArray.runtimeconfig.json
+C:\Users\User\source\repos\DynamicArray\DynamicArray\bin\Debug\netcoreapp3.1\DynamicArray.runtimeconfig.dev.json
+C:\Users\User\source\repos\DynamicArray\DynamicArray\bin\Debug\netcoreapp3.1\DynamicArray.dll
+C:\Users\User\source\repos\DynamicArray\DynamicArray\bin\Debug\netcoreapp3.1\DynamicArray.pdb
+C:\Users\User\source\repos\DynamicArray\DynamicArray\obj\Debug\netcoreapp3.1\DynamicArray.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DynamicArray\DynamicArray\obj\Debug\netcoreapp3.1\DynamicArray.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DynamicArray\DynamicArray\obj\Debug\netcoreapp3.1\DynamicArray.AssemblyInfo.cs
+C:\Users\User\source\repos\DynamicArray\DynamicArray\obj\Debug\netcoreapp3.1\DynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DynamicArray\DynamicArray\obj\Debug\netcoreapp3.1\DynamicArray.dll
+C:\Users\User\source\repos\DynamicArray\DynamicArray\obj\Debug\netcoreapp3.1\DynamicArray.pdb
+C:\Users\User\source\repos\DynamicArray\DynamicArray\obj\Debug\netcoreapp3.1\DynamicArray.genruntimeconfig.cache
