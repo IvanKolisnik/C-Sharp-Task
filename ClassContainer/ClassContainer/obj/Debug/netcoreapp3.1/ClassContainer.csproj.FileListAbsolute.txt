@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ClassContainer\ClassContainer\bin\Debug\netcoreapp3.1\ClassContainer.exe
+C:\Users\User\source\repos\ClassContainer\ClassContainer\bin\Debug\netcoreapp3.1\ClassContainer.deps.json
+C:\Users\User\source\repos\ClassContainer\ClassContainer\bin\Debug\netcoreapp3.1\ClassContainer.runtimeconfig.json
+C:\Users\User\source\repos\ClassContainer\ClassContainer\bin\Debug\netcoreapp3.1\ClassContainer.runtimeconfig.dev.json
+C:\Users\User\source\repos\ClassContainer\ClassContainer\bin\Debug\netcoreapp3.1\ClassContainer.dll
+C:\Users\User\source\repos\ClassContainer\ClassContainer\bin\Debug\netcoreapp3.1\ClassContainer.pdb
+C:\Users\User\source\repos\ClassContainer\ClassContainer\obj\Debug\netcoreapp3.1\ClassContainer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ClassContainer\ClassContainer\obj\Debug\netcoreapp3.1\ClassContainer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassContainer\ClassContainer\obj\Debug\netcoreapp3.1\ClassContainer.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassContainer\ClassContainer\obj\Debug\netcoreapp3.1\ClassContainer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassContainer\ClassContainer\obj\Debug\netcoreapp3.1\ClassContainer.dll
+C:\Users\User\source\repos\ClassContainer\ClassContainer\obj\Debug\netcoreapp3.1\ClassContainer.pdb
+C:\Users\User\source\repos\ClassContainer\ClassContainer\obj\Debug\netcoreapp3.1\ClassContainer.genruntimeconfig.cache
