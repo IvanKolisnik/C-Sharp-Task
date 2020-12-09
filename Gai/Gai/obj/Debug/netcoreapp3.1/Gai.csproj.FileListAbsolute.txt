@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Gai\Gai\obj\Debug\netcoreapp3.1\Gai.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Gai\Gai\obj\Debug\netcoreapp3.1\Gai.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Gai\Gai\obj\Debug\netcoreapp3.1\Gai.AssemblyInfo.cs
+C:\Users\User\source\repos\Gai\Gai\obj\Debug\netcoreapp3.1\Gai.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Gai\Gai\bin\Debug\netcoreapp3.1\Gai.exe
+C:\Users\User\source\repos\Gai\Gai\bin\Debug\netcoreapp3.1\Gai.deps.json
+C:\Users\User\source\repos\Gai\Gai\bin\Debug\netcoreapp3.1\Gai.runtimeconfig.json
+C:\Users\User\source\repos\Gai\Gai\bin\Debug\netcoreapp3.1\Gai.runtimeconfig.dev.json
+C:\Users\User\source\repos\Gai\Gai\bin\Debug\netcoreapp3.1\Gai.dll
+C:\Users\User\source\repos\Gai\Gai\bin\Debug\netcoreapp3.1\Gai.pdb
+C:\Users\User\source\repos\Gai\Gai\obj\Debug\netcoreapp3.1\Gai.dll
+C:\Users\User\source\repos\Gai\Gai\obj\Debug\netcoreapp3.1\Gai.pdb
+C:\Users\User\source\repos\Gai\Gai\obj\Debug\netcoreapp3.1\Gai.genruntimeconfig.cache
