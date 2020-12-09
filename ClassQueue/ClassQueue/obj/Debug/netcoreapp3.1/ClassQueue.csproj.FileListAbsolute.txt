@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ClassQueue\ClassQueue\bin\Debug\netcoreapp3.1\ClassQueue.exe
+C:\Users\User\source\repos\ClassQueue\ClassQueue\bin\Debug\netcoreapp3.1\ClassQueue.deps.json
+C:\Users\User\source\repos\ClassQueue\ClassQueue\bin\Debug\netcoreapp3.1\ClassQueue.runtimeconfig.json
+C:\Users\User\source\repos\ClassQueue\ClassQueue\bin\Debug\netcoreapp3.1\ClassQueue.runtimeconfig.dev.json
+C:\Users\User\source\repos\ClassQueue\ClassQueue\bin\Debug\netcoreapp3.1\ClassQueue.dll
+C:\Users\User\source\repos\ClassQueue\ClassQueue\bin\Debug\netcoreapp3.1\ClassQueue.pdb
+C:\Users\User\source\repos\ClassQueue\ClassQueue\obj\Debug\netcoreapp3.1\ClassQueue.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassQueue\ClassQueue\obj\Debug\netcoreapp3.1\ClassQueue.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassQueue\ClassQueue\obj\Debug\netcoreapp3.1\ClassQueue.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassQueue\ClassQueue\obj\Debug\netcoreapp3.1\ClassQueue.dll
+C:\Users\User\source\repos\ClassQueue\ClassQueue\obj\Debug\netcoreapp3.1\ClassQueue.pdb
+C:\Users\User\source\repos\ClassQueue\ClassQueue\obj\Debug\netcoreapp3.1\ClassQueue.genruntimeconfig.cache
