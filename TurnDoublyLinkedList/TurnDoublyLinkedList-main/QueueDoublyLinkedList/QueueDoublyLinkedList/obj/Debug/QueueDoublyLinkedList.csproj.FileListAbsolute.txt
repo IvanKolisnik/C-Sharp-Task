@@ -1,0 +1,6 @@
+C:\Users\User\RiderProjects\QueueDoublyLinkedList\QueueDoublyLinkedList\bin\Debug\QueueDoublyLinkedList.exe
+C:\Users\User\RiderProjects\QueueDoublyLinkedList\QueueDoublyLinkedList\bin\Debug\QueueDoublyLinkedList.pdb
+C:\Users\User\RiderProjects\QueueDoublyLinkedList\QueueDoublyLinkedList\obj\Debug\QueueDoublyLinkedList.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\QueueDoublyLinkedList\QueueDoublyLinkedList\obj\Debug\QueueDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\QueueDoublyLinkedList\QueueDoublyLinkedList\obj\Debug\QueueDoublyLinkedList.exe
+C:\Users\User\RiderProjects\QueueDoublyLinkedList\QueueDoublyLinkedList\obj\Debug\QueueDoublyLinkedList.pdb
